@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Welcome to NMIMS</h2>
+	<h2>Hi this is Rishi. You are successful!!</h2>
 
 
 	<a href="displayForm.htm">Registration Form</a>
